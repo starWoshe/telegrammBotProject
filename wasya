@@ -1,0 +1,8 @@
+Файл.система                1K-блоков Использовано  Доступно Использовано% Cмонтировано в
+tmpfs                         1424600         2184   1422416            1% /run
+/dev/mapper/data_Axk3c-root 486924448    105177444 356939172           23% /
+tmpfs                         7122996         5988   7117008            1% /dev/shm
+tmpfs                            5120            4      5116            1% /run/lock
+efivarfs                          160           41       115           26% /sys/firmware/efi/efivars
+/dev/nvme0n1p1                 268880        15848    253032            6% /boot/efi
+tmpfs                         1424596        17884   1406712            2% /run/user/1000
