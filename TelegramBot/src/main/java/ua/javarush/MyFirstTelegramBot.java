@@ -112,3 +112,4 @@ public class MyFirstTelegramBot extends TelegramLongPollingBot {
         telegramBotsApi.registerBot(new MyFirstTelegramBot());
     }
 }
+
